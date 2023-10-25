@@ -2,7 +2,9 @@ export default function Home() {
   return (
     <>
       <h1>welcome!</h1>
-      Hello, Web
+      <p> Hello, Web</p>
+
+      <img src="/hi.jpeg"></img>
     </>
   );
 }
